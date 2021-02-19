@@ -546,7 +546,7 @@ public class H264Encoder extends VideoEncoder {
 
     @Override
     public int estimateBufferSize(Picture frame) {
-        return Math.max(1 << 16, frame.getWidth() * frame.getHeight());
+        return Math.max(1 << 16, frame.getWidth() * frame.getHeight() * 2);
     }
 
     @Override
