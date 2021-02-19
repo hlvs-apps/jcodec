@@ -17,9 +17,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git://github.com/jcodec/jcodec.git</connection>
-		<developerConnection>scm:https://github.com/jcodec/jcodec.git</developerConnection>
-		<url>https://github.com/jcodec/jcodec</url>
+		<connection>scm:git:git://github.com/hlvs-apps/jcodec.git</connection>
+		<developerConnection>scm:https://github.com/hlvs-apps/jcodec.git</developerConnection>
+		<url>https://github.com/hlvs-apps/jcodec</url>
 		<tag>HEAD</tag>
 	</scm>
 	<developers>
